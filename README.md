@@ -1,4 +1,4 @@
-# Divyapvs
+# Divyasubramanian
 # Hi, I'm Divya 👋
 
 ## 📊 Data Analytics & Visualization Portfolio
