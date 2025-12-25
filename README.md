@@ -1,4 +1,4 @@
-# Divyasubramanian
+# Divyapvs
 ## 📊 Data Visualization Projects
 
 ### Sales Analysis Dashboard (Tableau)
