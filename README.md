@@ -1,10 +1,12 @@
 # Divyapvs
-## 📊 Data Visualization Projects
+# Hi, I'm Divya 👋
+
+## 📊 Data Analytics & Visualization Portfolio
 
 ### Sales Analysis Dashboard (Tableau)
-🔗 [View Interactive Tableau Dashboard] (https://10ay.online.tableau.com/#/site/srmistdashboard/workbooks/3325320?:origin=card_share_link)
+🔗 View Interactive Dashboard: https://10ay.online.tableau.com/#/site/srmistdashboard/workbooks/3325320?:origin=card_share_link
 
-**Insights:**
+**Key Insights:**
 - Technology category contributes the highest sales
-- West region consistently outperforms others
-- Profit margin drops significantly in the South
+- West region consistently outperforms other regions
+- Profit margins are lowest in the South region
